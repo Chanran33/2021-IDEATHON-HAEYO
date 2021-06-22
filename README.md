@@ -1,4 +1,4 @@
-# 2021-IDEATHON-HAYO
+# 2021-IDEATHON-HAEYO
 # 팀 소개
 - 팀명 : 
 - 팀원 : 
